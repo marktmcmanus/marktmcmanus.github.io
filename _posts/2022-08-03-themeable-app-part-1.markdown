@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing a theme-able wxWidgets Application - Part 1"
+title:  "Writing a Theme-able wxWidgets Application - Part 1"
 date:   2022-08-03 22:06:05 -0300
 categories: wxWidgets UI/UX C++
 ---
