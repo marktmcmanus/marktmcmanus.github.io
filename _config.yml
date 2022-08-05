@@ -30,7 +30,7 @@ twitter_username: marktmcmanus
 github_username:  marktmcmanus
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
