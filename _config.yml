@@ -21,7 +21,7 @@
 title: Mark's Blog
 email: mark.mcmanus@cartenav.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Mark McManus and I have been programming for near 30 years.
+  My name is Mark and I have been programming for near 30 years.
   This blog contains posts about some of the more interesting problems I have
   come across in my years of UI/UX programming. Hopefully you find it interesting is not useful.
 baseurl: "" # the subpath of your site, e.g. /blog
