@@ -48,4 +48,4 @@ Now that we could create custom theme-able controls we needed a way to load a di
 wxWidgets makes it easy to create custom events and has a few functions in wxWindow to help enumerate all the windows and controls in an application. We created a simple "theme changed" event and sent it to every window in the application. Each window must simply respond to the "theme changed" event and update itself. Since colours are indexed and icons are loaded when requested, in most cases all a control or window needs to do is redraw itself. This last part was made even easier by having base classes for controls, panels, and windows that already handle this event. 
 
 ### Conclusion (Part 1)
-Now that we have all the basics in place it's time the tackle the bigger issues, complicated controls (like multi-column lists), menus, scrollbars, etc... I'll cover those items in Part 2 in a couple weeks.
+Now that we have all the basics in place it's time the tackle the bigger issues, complicated controls (like multi-column lists), menus, scrollbars, etc... I'll cover those items in [Part 2]({% post_url 2022-08-26-themeable-app-part-2 %}).
