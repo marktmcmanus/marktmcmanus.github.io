@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing a theme-able wxWidgets Application - Part 1"
+title:  "Writing a Theme-able wxWidgets Application - Part 1"
 date:   2022-08-03 22:06:05 -0300
 categories: wxWidgets UI/UX C++
 ---
@@ -49,3 +49,4 @@ wxWidgets makes it easy to create custom events and has a few functions in wxWin
 
 ### Conclusion (Part 1)
 Now that we have all the basics in place it's time the tackle the bigger issues, complicated controls (like multi-column lists), menus, scrollbars, etc... I'll cover those items in [Part 2]({% post_url 2022-08-26-themeable-app-part-2 %}).
+
